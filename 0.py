@@ -56,6 +56,8 @@ result = get_shop_list_by_dishes(dishes, person_count)
 print(result)
 print('status')
 print('duble change')
+print('Новая попытка')
+
 
 
 
